@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-Nerd/static/css/main.abd64e84.css",
+    "main.js": "/News-Nerd/static/js/main.84fa40ea.js",
+    "static/js/787.821f5b8d.chunk.js": "/News-Nerd/static/js/787.821f5b8d.chunk.js",
+    "index.html": "/News-Nerd/index.html",
+    "main.abd64e84.css.map": "/News-Nerd/static/css/main.abd64e84.css.map",
+    "main.84fa40ea.js.map": "/News-Nerd/static/js/main.84fa40ea.js.map",
+    "787.821f5b8d.chunk.js.map": "/News-Nerd/static/js/787.821f5b8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.84fa40ea.js"
+  ]
+}
